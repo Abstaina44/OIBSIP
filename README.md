@@ -8,7 +8,8 @@
 <hr>
 <p> I have  learned how to add columns, divide sections, arrange items, add headers, footers. Most importantly, i have to my creativity to make the page look impressive. The alignments, the padding, the color palette, boxes and all the other elements on the page require attention. i use CSS carefully to make sure the elements on the page do not overlap.</p>
 
-/Users/abstaina/Desktop/Screenshot\ 2024-05-22\ at\ 08.47.00.png 
+![Uploading Screenshot 2024-05-22 at 08.47.00.png…]()
+
 
 
 
