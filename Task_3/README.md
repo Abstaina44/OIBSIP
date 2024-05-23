@@ -15,5 +15,10 @@ Display area for the final converted temperature and unit</p>
 
 <p>For an extra challenge: You can add in a third conversion option to convert from and to Kelvin as well</p> 
 
+<img width="1058" alt="Screenshot 2024-05-23 at 08 30 54" src="https://github.com/Abstaina44/OIBSIP/assets/48015890/13603fd4-b611-4b5a-8f89-edf600b5f713">
+
+
+
+
 <h3>Made with 🤍 by Ephraim Abstaina.</h3>
 
