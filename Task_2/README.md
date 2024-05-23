@@ -23,10 +23,14 @@ CSS: Styles the website with visual elements like layout, colors, and fonts.<br>
 JavaScript: Adds interactivity and dynamic behavior to the website.
 Projects:<br>
 
+<img width="1280" alt="Screenshot 2024-05-23 at 08 43 21" src="https://github.com/Abstaina44/OIBSIP/assets/48015890/5d799b91-5694-4156-943c-1e6173a9f755">
+
 
 
 Feel free to reach out to me for any inquiries or project collaborations.
 
-Email:padcliff88@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/ephraim-abstaina/">
-GitHub:  <a href="https://github.com/Abstaina44">
+Email: padcliff88@gmail.com
+
+GitHub: https://github.com/Abstaina44 <br>
+
+
