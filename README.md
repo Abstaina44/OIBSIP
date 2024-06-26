@@ -14,5 +14,4 @@
 <img width="1276" alt="Screenshot 2024-05-22 at 09 13 03" src="https://github.com/Abstaina44/OIBSIP/assets/48015890/2e73364a-19bf-4b83-bcc9-7ffdd26f47e5">
 
 
-
-ers/abstaina/Desktop/Ephraim Abstaina Certificate.pdf'h2> Made with 🤍 by Ephraim Abstaina<h2>
+ Made with 🤍 by Ephraim Abstaina<h2>
